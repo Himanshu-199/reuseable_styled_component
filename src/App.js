@@ -1,4 +1,4 @@
-import { useEffect, useState } from "react";
+import { useEffect } from "react";
 import "./App.css";
 import Home from "./containers/Home";
 import useCookiesStatus from "./useHookes";
