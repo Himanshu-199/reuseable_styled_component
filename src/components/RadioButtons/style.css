@@ -1,0 +1,25 @@
+.radioButton {
+  margin-bottom: 5px;
+}
+
+.radioButton .label {
+  color: #000;
+  font-size: 16px;
+  font-weight: 500;
+  margin: 5px;
+}
+.options {
+  display: flex;
+  flex-direction: row;
+  padding-top: 5px;
+}
+.radioButton .error {
+  color: rgb(243, 38, 38);
+  font-size: 12px;
+  margin-left: 5px;
+}
+.radioButton .optionLable {
+  margin-right: 20px;
+  font-size: 15px;
+  font-weight: 500;
+}

@@ -1,0 +1,22 @@
+.input {
+  background: #ddd; 
+  display: flex;
+  flex-direction: column; 
+}
+.input .label {
+  color: #000;
+  font-size: 16px;
+  font-weight: 500; 
+  margin: 5px; 
+}
+.input .filed {
+  width: 95%; 
+  font-size: 18px;
+  padding: 10px;
+  border-radius: 10px;
+}
+.input .error {
+  color: rgb(243, 38, 38);
+  font-size: 12px;
+  margin-left:5px;   
+}
